@@ -42,13 +42,5 @@ while True:
 
     if another == "no":
         sys.exit()
-
         
-             
-
-  
-
-
-     
-
-
+      
